@@ -1,0 +1,2 @@
+# Overview
+AWS Step functions are a way of composing and orchestrating FAAS through a sequential process (with branching paths) with built-in support with other AWS services: eg [[DynamoDB]], [[AWS Lambda]], [[SNS]]
